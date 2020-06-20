@@ -29,7 +29,7 @@ createStore({
 export default function App() {
   return (
     <StateMachineProvider>
-      <DevTool />
+      {/* <DevTool /> */}
       <AppThemeProvider>
         <AppContainer maxWidth="xl" disableGutters>
           <Topnav />
