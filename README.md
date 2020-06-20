@@ -4,7 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, run:
+
+### `npm install`
 
 ### `npm start`
 
@@ -13,6 +15,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Dependencies
 
+- @date-io/date-fns
 - @material-ui/core
-- little-state-machine
+- @material-ui/pickers
 - @reach/router
+- date-fns
+- little-state-machine
+- styled-components
